@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ruby
+  - Cog
+  - Enemy
+  - Pickup
+  - RubyController
+  - Gems
+  - Feather
+  - New tag
+  - Backgroundmusic
+  - NPC2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Extras
+  - Pickup
+  - Health
+  - Robot
+  - Character
+  - Projecctile
+  - 0
+  - Confiner
+  - NPC
+  - NPC2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Extra
+    uniqueID: 3280972295
+    locked: 0
+  - name: New Layer
+    uniqueID: 3902863763
+    locked: 0
